@@ -16,28 +16,38 @@ This is a solution to the [Huddle landing page with single introductory section 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This project is a responsive landing page built for the **Huddle landing page with a single introductory section** challenge on Frontend Mentor.  
+The goal was to recreate the provided design as closely as possible using **HTML and CSS**.  
+
+The page includes:
+- A two-column layout on desktop (illustration + text with call-to-action)
+- A stacked layout on mobile
+- Responsive background images
+- Hover states for the button and social icons  
+
+This challenge helped me practice **Flexbox layouts, responsive design, and accessibility improvements**.
+
+
 
 ### The challenge
 
-Users should be able to:
+The challenge was to build out a responsive landing page based on the provided design.  
 
-- View the optimal layout for the page depending on their device's screen size
-- See hover states for all interactive elements on the page
+Users should be able to:
+- View the optimal layout for the page depending on their device's screen size (desktop and mobile)
+- See hover states for all interactive elements (the register button and social media icons)
 
 ### Screenshot
 
-![](./screenshot.jpg)
+**Desktop view**
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![Desktop preview](./images/Desktop%20view%20screenshot.png)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+**Mobile view**
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Mobile preview](./images/Mobile%20view%20screenshot.pngg)
 
 ### Links
 

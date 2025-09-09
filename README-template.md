@@ -52,7 +52,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://iqrajabeen100.github.io/Huddle-Landing-Page/)
 
 ## My process
 
@@ -108,12 +108,11 @@ Users should be able to:
 
 ## Author
 
-- Website - [Iqra Jabeen](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Iqra Jabeen](https://iqrajabeen100.github.io/Huddle-Landing-Page/)
+- Frontend Mentor - [@IqraJabeen100](https://www.frontendmentor.io/profile/@IqraJabeen100)
 
 
 ## Acknowledgments
 
 This was a solo project completed as part of a Frontend Mentor challenge.  
 Big thanks to the Frontend Mentor community for providing such well-structured challenges that help developers like me practice and grow.
-
